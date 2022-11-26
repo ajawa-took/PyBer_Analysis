@@ -21,7 +21,7 @@
 
 ## Results
 
- PyBer's business is concentrated in urban settings: the vast majority of drivers, more that two third of the rides are urban, and almost two thirds of the revenue comes from urban business. However, urban fares per ride, and especially urban fares per driver, are far lower in the urban segment than in the other two. On the other end of the spectrum, the rural segment of PyBer's business is tiny, but has the biggest average fares per ride and per driver. These trends are not changing much over time, beyond random fluctuations.
+ PyBer's business is concentrated in urban settings: the vast majority of drivers and more that two third of the rides are urban; and almost two thirds of the revenue comes from urban business. However, urban fares per ride, and especially urban fares per driver, are far lower in the urban segment than in the other two. On the other end of the spectrum, the rural segment of PyBer's business is tiny, but has the highest average fares per ride and per driver. These trends are not changing much over time, beyond random fluctuations.
 
 
 ## Summary
@@ -30,7 +30,7 @@
 
 2. If the rural market doesn't work out, PyBer should focus on expanding into the suburban market, with second highest fare per ride.
 
-3. There were more urban drivers than urban rides in this time period! PyBer is keeping at least 780 drivers that aren't driving on its books! If PyBer has incurs costs for each registered driver, a required minimum number of rides per driver should be set, in order to shed this ballast.
+3. There were more urban drivers than urban rides in this time period! PyBer is keeping at least 780 drivers that aren't driving on its books! If PyBer incurs costs for each registered driver, a required minimum number of rides per driver should be set, in order to shed this ballast.
 
 
 

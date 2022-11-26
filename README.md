@@ -15,7 +15,7 @@
 
  To see how revenue changes over time in each of the same three segments, we compute total fares for each week and plot them.
 
-![Here's the graph.](/resources/Theater_Outcomes_vs_Launch.png)
+![Here's the graph.](/analysis/Fig8.png)
 
 
 
